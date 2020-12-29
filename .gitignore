@@ -1,0 +1,11 @@
+CMakeFiles/*
+CMakeFiles*
+cmake*
+.vscode
+.vscode/*
+.idea*
+.idea
+Makefile
+CMakeCache.txt
+*.so
+*.cbp
